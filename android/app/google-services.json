@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707935488512",
+    "project_id": "tryy-34c80",
+    "storage_bucket": "tryy-34c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707935488512:android:bc00d91ceaf262a67b26e5",
+        "android_client_info": {
+          "package_name": "com.yoloo.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707935488512-kd1rqirvlctiuqiivt2ok4h465gefffe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNIrBj6syPtBoHNyWiiFXZPOOIZC6yr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707935488512-kd1rqirvlctiuqiivt2ok4h465gefffe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
